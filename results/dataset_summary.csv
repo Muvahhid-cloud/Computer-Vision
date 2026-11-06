@@ -1,0 +1,10 @@
+split,emotion,source groups,aug-only groups,real source photos used,augmented variants used,images used
+train,happy,20,0,23,230,253
+train,sad,12,2,12,176,188
+train,neutral,31,1,33,332,365
+val,happy,17,0,18,36,54
+val,sad,10,2,10,31,41
+val,neutral,12,1,12,66,78
+test,happy,17,0,19,35,54
+test,sad,10,1,10,30,40
+test,neutral,12,1,22,56,78

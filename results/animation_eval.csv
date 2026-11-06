@@ -1,0 +1,3 @@
+animation,clips,source stills,frames,macro-F1 stills,macro-F1 frames,delta macro-F1,mean consistency,clips whose majority = true label
+lip,24,24,624,0.87,0.483,-0.388,0.772,0.333
+pose,24,24,624,0.87,0.88,0.01,0.963,0.875

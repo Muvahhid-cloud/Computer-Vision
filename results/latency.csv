@@ -1,0 +1,4 @@
+model,params (M),CPU ms/image,GPU ms/image
+Simple CNN,0.1,28.6,1.4
+MobileNetV2,2.23,24.2,5.7
+ViT (augmentation),85.8,474.5,18.9

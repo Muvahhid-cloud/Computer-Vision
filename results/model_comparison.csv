@@ -1,0 +1,6 @@
+,Accuracy,Precision (macro),Recall (macro),F1 (macro)
+HOG + SVM,0.715,0.774,0.646,0.659
+Simple CNN,0.116,0.078,0.139,0.099
+MobileNetV2,0.547,0.396,0.464,0.427
+ViT (no augmentation),0.878,0.882,0.902,0.877
+ViT (augmentation),0.884,0.892,0.899,0.891
